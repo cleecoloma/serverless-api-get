@@ -9,8 +9,6 @@
 
 > To test, use: `npm test`
 
-> Set your PORT environment with an .env file
-
 Get request:
 ```text
 method: GET
@@ -21,8 +19,8 @@ route: /cars || /cars/{id}
 ![Serverless API UML Diagram](./public/images/serverless-api.png)
 
 ## PR link
-[GET Request PR link](https://github.com/cleecoloma/code-academy-parcel-service/pull/3)
+[GET Request PR link](https://github.com/cleecoloma/serverless-api-get/pulls)
 
 ## Contributors
 * Chester Lee Coloma
-* ChatGPT helped with the emit tests
+* ChatGPT helped with the tests
