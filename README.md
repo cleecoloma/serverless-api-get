@@ -17,6 +17,10 @@ method: GET
 route: /cars || /cars/{id}
 ```
 
+Output:
+> response with status code and body - all cars or specific car using id
+
+
 ## UML Diagram
 ![Serverless API UML Diagram](./public/images/serverless-api.png)
 
